@@ -1,0 +1,61 @@
+Generating meal plans. Please wait...
+
+Basic NSGA-II:
+
+Average Runtime: 7.86s ± 0.30s
+
+Final Metrics (mean ± std):
+
+total_cost: 18.03 ± 1.50
+
+total_prep_time: 443.53 ± 36.34
+
+nutritional_balance: 0.04 ± 0.00
+
+variety_score: 19.42 ± 1.20
+
+Fitness Sharing:
+
+Average Runtime: 15.45s ± 0.45s
+
+Final Metrics (mean ± std):
+
+total_cost: 17.55 ± 1.71
+
+total_prep_time: 428.31 ± 24.09
+
+nutritional_balance: 0.05 ± 0.01
+
+variety_score: 19.36 ± 0.83
+
+Clearing:
+
+Average Runtime: 9.46s ± 0.40s
+
+Final Metrics (mean ± std):
+
+total_cost: 22.51 ± 2.01
+
+total_prep_time: 474.75 ± 22.09
+
+nutritional_balance: 0.05 ± 0.01
+
+variety_score: 21.36 ± 1.02
+
+Statistical Analysis Results:
+
+Basic NSGA-II:
+
+Average Runtime: 7.86s ± 0.30s
+
+Fitness Sharing:
+
+Average Runtime: 15.45s ± 0.45s
+
+Clearing:
+
+Average Runtime: 9.46s ± 0.40s
+
+Plots have been saved locally
+
+

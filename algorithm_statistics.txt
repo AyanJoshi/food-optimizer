@@ -1,0 +1,27 @@
+
+Basic NSGA-II:
+Average Runtime: 7.44s ± 0.09s
+Final Metrics (mean ± std):
+  total_cost: 17.02 ± 2.20
+  total_prep_time: 385.36 ± 25.29
+  nutritional_balance: 0.05 ± 0.01
+  variety_score: 19.93 ± 1.65
+  calorie_deviation: 2603.51 ± 89.71
+
+Fitness Sharing:
+Average Runtime: 14.58s ± 0.13s
+Final Metrics (mean ± std):
+  total_cost: 14.85 ± 0.80
+  total_prep_time: 404.14 ± 16.99
+  nutritional_balance: 0.05 ± 0.00
+  variety_score: 20.34 ± 1.47
+  calorie_deviation: 2614.59 ± 134.68
+
+Clearing:
+Average Runtime: 9.13s ± 0.22s
+Final Metrics (mean ± std):
+  total_cost: 21.81 ± 1.34
+  total_prep_time: 472.15 ± 38.82
+  nutritional_balance: 0.04 ± 0.02
+  variety_score: 20.08 ± 0.78
+  calorie_deviation: 2016.95 ± 174.36
